@@ -91,7 +91,7 @@
 
 * 📧 [sudhanshutripathi900@gmail.com](mailto:sudhanshutripathi900@gmail.com)
 * 🔗 https://linkedin.com/in/sudhanshu-tripathi
-* 💻 https://github.com/YOUR_USERNAME
+* 💻 https://github.com/Sudhanshu2024
 
 ---
 
