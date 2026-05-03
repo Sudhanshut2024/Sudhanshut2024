@@ -1,6 +1,8 @@
 # 💫 About Me:
 Python Developer focused on building scalable web applications and exploring AI-driven solutions. Experienced with Flask, Django, and backend development, with a strong foundation in data structures and problem-solving. Passionate about combining web technologies with machine learning to create impactful, real-world applications.
 
+Contact Me : sudhanshutripathi900@gmail.com
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sudhanshu-tripathi-3741b41b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
